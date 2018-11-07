@@ -1,0 +1,29 @@
+.headingText{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+}
+
+.studentForm{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+   
+  background-color: SlateBlue; 
+  border-collapse: collapse; 
+  border: 2px solid navy;
+}
+.studentForm.inner{
+  border: 0px;
+}
+.star
+{
+  color: crimson;
+  font-size: 20px;
+}
